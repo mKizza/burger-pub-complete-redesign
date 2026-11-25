@@ -1,0 +1,312 @@
+{
+  "beefBurger": {
+    "title": "BEEF BURGER",
+    "items": [
+      {
+        "id": 1,
+        "name": "CLASSIC BEEF BURGER",
+        "description": "100% Beef-Patty, Cheddar, Salat, Tomate, Zwiebeln, Gurken und Burger-Sauce",
+        "price": "14,50 €",
+        "image": "/burgers-images/food1-1.JPG"
+      },
+      {
+        "id": 2,
+        "name": "CHEESE BURGER",
+        "description": "100% Beef-Patty, extra Cheddar, Salat, Tomate, Zwiebeln, Gurken und Burger-Sauce",
+        "price": "15,00 €",
+        "image": "/burgers-images/food-2.JPG"
+      },
+      {
+        "id": 3,
+        "name": "BEEF BACON BURGER",
+        "description": "100% Beef-Patty, Cheddar, Bacon, Salat, Tomate, Zwiebeln und Burger-Sauce",
+        "price": "15,50 €",
+        "image": "/burgers-images/food-3.JPG"
+      },
+      {
+        "id": 4,
+        "name": "BBQ BEEF BURGER",
+        "description": "100% Beef-Patty, Cheddar, Bacon, Röstzwiebeln, Salat und BBQ-Sauce",
+        "price": "15,50 €",
+        "image": "/burgers-images/food-4.JPG"
+      },
+      {
+        "id": 5,
+        "name": "DOUBLE BEEF BURGER",
+        "description": "2x Beef-Patty, doppelter Cheddar, Salat, Tomate, Zwiebeln und Burger-Sauce",
+        "price": "18,50 €",
+        "image": "/burgers-images/food-5.JPG"
+      },
+      {
+        "id": 6,
+        "name": "SPICY BEEF BURGER",
+        "description": "100% Beef-Patty, Cheddar, Jalapeños, Salat, Zwiebeln und scharfe Chili-Sauce",
+        "price": "15,50 €"
+      },
+      {
+        "id": 7,
+        "name": "CHILI CHEESE BURGER",
+        "description": "100% Beef-Patty, Cheddar, Jalapeños, Chili-Cheese-Sauce, Salat und Zwiebeln",
+        "price": "16,00 €"
+      },
+      {
+        "id": 8,
+        "name": "SMOKEY BACON BURGER",
+        "description": "100% Beef-Patty, Bacon, Cheddar, Röstzwiebeln, Salat und Smokey-BBQ-Sauce",
+        "price": "16,00 €"
+      },
+      {
+        "id": 9,
+        "name": "MUSHROOM BEEF BURGER",
+        "description": "100% Beef-Patty, Cheddar, gebratene Champignons, Zwiebeln, Salat und Burger-Sauce",
+        "price": "15,50 €"
+      },
+      {
+        "id": 10,
+        "name": "PUB SPECIAL BURGER",
+        "description": "100% Beef-Patty, Cheddar, Bacon, Spiegelei, Röstzwiebeln, Salat und Haus-Sauce",
+        "price": "17,00 €"
+      },
+      {
+        "id": 11,
+        "name": "CRISPY ONION BURGER",
+        "description": "100% Beef-Patty, Cheddar, knusprige Zwiebeln, Gurken, Salat und BBQ-Sauce",
+        "price": "15,50 €"
+      },
+      {
+        "id": 12,
+        "name": "HOT BACON BURGER",
+        "description": "100% Beef-Patty, Bacon, Cheddar, Jalapeños, Zwiebeln und Hot-Chili-Sauce",
+        "price": "16,50 €"
+      }
+    ]
+  },
+
+  "chickenVeggieBurger": {
+    "title": "CHICKEN & VEGGIE BURGERS",
+    "items": [
+      {
+        "id": 13,
+        "name": "CLASSIC CHICKEN BURGER",
+        "description": "Gegrilltes Hähnchen, Cheddar, Salat, Tomate, Zwiebeln und Burger-Sauce",
+        "price": "14,50 €"
+      },
+      {
+        "id": 14,
+        "name": "CRISPY CHICKEN BURGER",
+        "description": "Knuspriges Hähnchen, Cheddar, Salat, Tomate, Gurken und Burger-Sauce",
+        "price": "15,00 €"
+      },
+      {
+        "id": 15,
+        "name": "SPICY CHICKEN BURGER",
+        "description": "Knuspriges Hähnchen, Cheddar, Jalapeños, Salat, Zwiebeln und Chili-Sauce",
+        "price": "15,50 €"
+      },
+      {
+        "id": 16,
+        "name": "BBQ CHICKEN BURGER",
+        "description": "Gegrilltes Hähnchen, Cheddar, Röstzwiebeln, Salat und BBQ-Sauce",
+        "price": "15,00 €"
+      },
+      {
+        "id": 17,
+        "name": "CHICKEN BACON BURGER",
+        "description": "Gegrilltes Hähnchen, Bacon, Cheddar, Salat, Tomate und Burger-Sauce",
+        "price": "16,00 €"
+      },
+      {
+        "id": 18,
+        "name": "VEGGIE BURGER",
+        "description": "Veggie-Patty, Cheddar, Salat, Tomate, Gurken, Zwiebeln und Burger-Sauce",
+        "price": "14,00 €"
+      },
+      {
+        "id": 19,
+        "name": "CRISPY VEGGIE BURGER",
+        "description": "Knuspriges Gemüse-Patty, Cheddar, Salat, Tomate, Zwiebeln und Kräuter-Sauce",
+        "price": "14,50 €"
+      },
+      {
+        "id": 20,
+        "name": "SPICY VEGGIE BURGER",
+        "description": "Veggie-Patty, Cheddar, Jalapeños, Salat, Zwiebeln und Chili-Sauce",
+        "price": "14,50 €"
+      }
+    ]
+  },
+
+  "hauptgerichte": {
+    "title": "HAUPTGERICHTE & FINGER FOOD",
+    "items": [
+      {
+        "id": 21,
+        "name": "CHICKEN WINGS",
+        "description": "Knusprige Chicken Wings mit BBQ-Sauce und Pommes",
+        "price": "14,50 €"
+      },
+      {
+        "id": 22,
+        "name": "CHICKEN FINGERS",
+        "description": "Knusprige Hähnchenstreifen mit Pommes und Dip nach Wahl",
+        "price": "13,50 €"
+      },
+      {
+        "id": 23,
+        "name": "CHILI CHEESE FRIES",
+        "description": "Pommes mit Chili-Cheese-Sauce, Jalapeños und Röstzwiebeln",
+        "price": "9,50 €"
+      },
+      {
+        "id": 24,
+        "name": "LOADED BACON FRIES",
+        "description": "Pommes mit Cheddar, Bacon, Röstzwiebeln und Haus-Sauce",
+        "price": "10,50 €"
+      },
+      {
+        "id": 25,
+        "name": "MOZZARELLA STICKS",
+        "description": "Knusprige Mozzarella Sticks mit Dip nach Wahl",
+        "price": "8,50 €"
+      },
+      {
+        "id": 26,
+        "name": "ONION RINGS",
+        "description": "Knusprig frittierte Zwiebelringe mit BBQ-Dip",
+        "price": "7,50 €"
+      }
+    ]
+  },
+
+  "burgerPlatte": {
+    "title": "BURGER PUR MIT PLATTE",
+    "items": [
+      {
+        "id": 27,
+        "name": "CLASSIC BEEF PUR",
+        "description": "100% Beef-Patty, Cheddar und Burger-Sauce",
+        "price": "11,50 €"
+      },
+      {
+        "id": 28,
+        "name": "BACON BEEF PUR",
+        "description": "100% Beef-Patty, Cheddar, Bacon und Burger-Sauce",
+        "price": "12,50 €"
+      },
+      {
+        "id": 29,
+        "name": "SPICY BEEF PUR",
+        "description": "100% Beef-Patty, Cheddar, Jalapeños und Chili-Sauce",
+        "price": "12,50 €"
+      },
+      {
+        "id": 30,
+        "name": "CRISPY CHICKEN PUR",
+        "description": "Knuspriges Hähnchen, Cheddar und Burger-Sauce",
+        "price": "11,50 €"
+      }
+    ]
+  },
+
+  "salate": {
+    "title": "SALATE",
+    "items": [
+      {
+        "id": 31,
+        "name": "MIXED SALAD",
+        "description": "Gemischter Salat mit Tomaten, Gurken, Zwiebeln und Haus-Dressing",
+        "price": "8,50 €"
+      },
+      {
+        "id": 32,
+        "name": "CHICKEN SALAD",
+        "description": "Gemischter Salat mit gegrilltem Hähnchen, Tomaten, Gurken und Haus-Dressing",
+        "price": "12,50 €"
+      },
+      {
+        "id": 33,
+        "name": "CRISPY CHICKEN SALAD",
+        "description": "Gemischter Salat mit knusprigem Hähnchen, Tomaten, Gurken und Dressing",
+        "price": "13,00 €"
+      }
+    ]
+  },
+
+  "beilagen": {
+    "title": "BEILAGEN",
+    "items": [
+      {
+        "id": 35,
+        "name": "POMMES FRITES",
+        "description": "Knusprige Pommes Frites",
+        "price": "4,50 €"
+      },
+      {
+        "id": 36,
+        "name": "SÜSSKARTOFFEL POMMES",
+        "description": "Knusprige Süßkartoffel-Pommes",
+        "price": "5,50 €"
+      },
+      {
+        "id": 37,
+        "name": "WEDGES",
+        "description": "Gewürzte Kartoffel-Wedges",
+        "price": "5,00 €"
+      },
+      {
+        "id": 38,
+        "name": "ONION RINGS",
+        "description": "Knusprig frittierte Zwiebelringe",
+        "price": "5,50 €"
+      },
+      {
+        "id": 39,
+        "name": "COLESLAW",
+        "description": "Hausgemachter Krautsalat",
+        "price": "4,50 €"
+      }
+    ]
+  },
+
+  "dips": {
+    "title": "DIPS",
+    "items": [
+      {
+        "id": 40,
+        "name": "BBQ SAUCE",
+        "description": "",
+        "price": "1,50 €"
+      },
+      {
+        "id": 41,
+        "name": "CHILI SAUCE",
+        "description": "",
+        "price": "1,50 €"
+      },
+      {
+        "id": 42,
+        "name": "CHILI CHEESE SAUCE",
+        "description": "",
+        "price": "2,00 €"
+      },
+      {
+        "id": 43,
+        "name": "BURGER SAUCE",
+        "description": "",
+        "price": "1,50 €"
+      },
+      {
+        "id": 44,
+        "name": "GARLIC SAUCE",
+        "description": "",
+        "price": "1,50 €"
+      },
+      {
+        "id": 45,
+        "name": "SOUR CREAM",
+        "description": "",
+        "price": "1,50 €"
+      }
+    ]
+  }
+}
